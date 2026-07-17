@@ -1,0 +1,6 @@
+{
+  "name": "Ethical Hacking & OSINT Suite",
+  "description": "A cybersecurity suite for intelligence gathering and defensive network reconnaissance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
